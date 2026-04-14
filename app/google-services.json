@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561763976491",
+    "project_id": "emogragh",
+    "storage_bucket": "emogragh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561763976491:android:c013999660dafaaf00f16e",
+        "android_client_info": {
+          "package_name": "com.example.emograph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561763976491-n4n46b4r3td447uu5up1qp3sk2usf2t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emograph",
+            "certificate_hash": "a90cb762792301cf33cc722a0245266df72794d0"
+          }
+        },
+        {
+          "client_id": "561763976491-t1v46bvdotpfd8gqq2cu99qkjor9o9a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxPX84xvAmoqzv23tLJfyuH8JnHXDQFrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561763976491-t1v46bvdotpfd8gqq2cu99qkjor9o9a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
