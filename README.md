@@ -45,4 +45,7 @@
 ---
 
 このアプリがどのように動いているのか、その「全体像」を視覚的に理解できるツールを作成しました。
-
+https://photos.google.com/u/0/photo/AF1QipOFNjWDn0c67qYE2KOYnqj01qcO93E5g-SHt4Bz
+https://photos.google.com/u/0/photo/AF1QipP0p50V-Vj4z_5upN0JETVwzhSfzkG03dD_u4YQ
+https://photos.google.com/u/0/photo/AF1QipPYvoYvBm69GiGcZNdIBPTy-Kyjinl3F2nyonGb
+https://photos.google.com/u/0/photo/AF1QipNUJhkNUuONKKXKdm03O9rtJgPpsPUWlqfhc8zd
