@@ -45,7 +45,8 @@
 ---
 
 このアプリがどのように動いているのか、その「全体像」を視覚的に理解できるツールを作成しました。
-https://photos.google.com/u/0/photo/AF1QipOFNjWDn0c67qYE2KOYnqj01qcO93E5g-SHt4Bz
-https://photos.google.com/u/0/photo/AF1QipP0p50V-Vj4z_5upN0JETVwzhSfzkG03dD_u4YQ
-https://photos.google.com/u/0/photo/AF1QipPYvoYvBm69GiGcZNdIBPTy-Kyjinl3F2nyonGb
-https://photos.google.com/u/0/photo/AF1QipNUJhkNUuONKKXKdm03O9rtJgPpsPUWlqfhc8zd
+
+<img width="1080" height="2400" alt="Screenshot_2026-04-16-11-20-13-106_com kha98 emograph" src="https://github.com/user-attachments/assets/f0558261-20bd-4ba6-8510-8fd3b970e884" />
+<img width="1080" height="2400" alt="Screenshot_2026-04-16-11-20-20-704_com kha98 emograph" src="https://github.com/user-attachments/assets/dcd3ad5e-8324-4610-acee-63ad1898cdce" />
+<img width="1080" height="2400" alt="Screenshot_2026-04-16-11-20-36-546_com google android apps labs language tailwind" src="https://github.com/user-attachments/assets/90347748-9dea-4db7-8e6a-4969ea28ba34" />
+<img width="1080" height="2400" alt="Screenshot_2026-04-16-11-49-03-641_com google android apps labs language tailwind" src="https://github.com/user-attachments/assets/84338bcb-f87c-4fdb-823e-dc9ff1ae2230" />
